@@ -2,7 +2,7 @@
 JavaScript is often called a `Functional Programing Languages` as functions are at the heart of javascript works.
 
 Resources:
-- [ES6 default, rest, spread - medium](https://medium.com/ecmascript-2015/default-rest-spread-f3ab0d2e0a5e)
+- [ES6 default, rest, spread - medium](https://medium.com/ecmascript-2015/default-rest-spread-f3ab0d2e0a5e)
 - [ES7 async functions - sitepoint](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
 - [ES7 generators, async functions = node submit](http://nodesummit.com/media/evolution-of-javascript-es7)
 
